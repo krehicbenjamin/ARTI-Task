@@ -1,0 +1,6 @@
+@ARTI_HostAddress = http://localhost:5086
+
+GET {{ARTI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

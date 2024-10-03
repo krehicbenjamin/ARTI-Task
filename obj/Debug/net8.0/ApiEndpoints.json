@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ARTI.Controllers.RegressionForecastController",
+    "Method": "Predict",
+    "RelativePath": "api/RegressionForecast/predict",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Features",
+        "Type": "System.Collections.Generic.List\u00601[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ARTI.Controllers.TimeSeriesForecastController",
+    "Method": "Predict",
+    "RelativePath": "api/TimeSeriesForecast/predict",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Features",
+        "Type": "System.Collections.Generic.List\u00601[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

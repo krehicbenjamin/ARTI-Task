@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ARTI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\controllers\\timeseriesforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:controllers\\timeseriesforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\controllers\\regressionforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:controllers\\regressionforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\services\\regressionmodel.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:services\\regressionmodel.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\services\\pythontimeseriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:services\\pythontimeseriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\services\\pythonregressionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:services\\pythonregressionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\models\\timeseriesinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:models\\timeseriesinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\models\\regressioninputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:models\\regressioninputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\services\\timeseriesmodel.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:services\\timeseriesmodel.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\data\\timeseries_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:data\\timeseries_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|c:\\users\\user\\source\\repos\\arti\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32EEDDEC-CCFD-4733-8834-8B38B403E3FF}|ARTI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PythonRegressionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Services\\PythonRegressionService.cs",
+              "RelativeDocumentMoniker": "Services\\PythonRegressionService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Services\\PythonRegressionService.cs",
+              "RelativeToolTip": "Services\\PythonRegressionService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:48:37.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeSeriesInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Models\\TimeSeriesInputModel.cs",
+              "RelativeDocumentMoniker": "Models\\TimeSeriesInputModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Models\\TimeSeriesInputModel.cs",
+              "RelativeToolTip": "Models\\TimeSeriesInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:41:15.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PythonTimeSeriesService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Services\\PythonTimeSeriesService.cs",
+              "RelativeDocumentMoniker": "Services\\PythonTimeSeriesService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Services\\PythonTimeSeriesService.cs",
+              "RelativeToolTip": "Services\\PythonTimeSeriesService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:53:38.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegressionModel.py",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Services\\RegressionModel.py",
+              "RelativeDocumentMoniker": "Services\\RegressionModel.py",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Services\\RegressionModel.py",
+              "RelativeToolTip": "Services\\RegressionModel.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-01T21:42:45.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegressionInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Models\\RegressionInputModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegressionInputModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Models\\RegressionInputModel.cs",
+              "RelativeToolTip": "Models\\RegressionInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:40:53.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegressionForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Controllers\\RegressionForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegressionForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Controllers\\RegressionForecastController.cs",
+              "RelativeToolTip": "Controllers\\RegressionForecastController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:38:47.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeSeriesForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Controllers\\TimeSeriesForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TimeSeriesForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Controllers\\TimeSeriesForecastController.cs",
+              "RelativeToolTip": "Controllers\\TimeSeriesForecastController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:39:24.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:54:14.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeSeriesModel.py",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Services\\TimeSeriesModel.py",
+              "RelativeDocumentMoniker": "Services\\TimeSeriesModel.py",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Services\\TimeSeriesModel.py",
+              "RelativeToolTip": "Services\\TimeSeriesModel.py",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-01T21:43:13.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Timeseries_dataset.csv",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Data\\Timeseries_dataset.csv",
+              "RelativeDocumentMoniker": "Data\\Timeseries_dataset.csv",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Data\\Timeseries_dataset.csv",
+              "RelativeToolTip": "Data\\Timeseries_dataset.csv",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-02T16:21:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ARTI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ARTI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T22:18:36.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
