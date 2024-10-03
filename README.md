@@ -20,7 +20,13 @@ To make the system handle more api calls we can implement the following rate lim
 How to start the app: 
 Have the path ready for your python.dll (this has do be done locally in the Program.cs file to have .Net native python compiling.
 
-When you open the app (preferably in Visual Studio) update the fields 
+Make sure all dependancies used in the training model are installed for the version you are using.
+
+For training and testing I have used 3.11 version of Python. The offical depedancies have become a bit buggy with the last ocuple of releases so I had to cut some corners to make this work. I suggest installing and using Python 3.11.
+
+I have left a example paths from my machine in the appsettings.json file so it's loaded as an enviroment variable.
+
+When you open the app (preferably in Visual Studio) update the fields in the appsettings.json file:
 Runtime.PythonDLL 
 PythonEngine.PythonHome
 
