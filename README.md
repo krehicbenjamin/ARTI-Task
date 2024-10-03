@@ -25,3 +25,7 @@ Runtime.PythonDLL
 PythonEngine.PythonHome
 
 When startitring the application you can press the green play button with https next to it. Both models have separate controllers and services for easier checking.
+
+
+Regression model takes 28 inputs (because it was a requirement for it to be a GET method we have to pass it trough a query) You will have to add 28 new fields and then execute.
+TimeSeries model takes 10 inputs (because it was a requirement for it to be a GET method we have to pass it trough a query) You will have to add 10 new fields and then execute.
