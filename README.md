@@ -15,3 +15,13 @@ To make the system handle more api calls we can implement the following rate lim
 (Time Series Model) LSTM -  This model may perform better on sequential or time-dependent data because it captures temporal dependencies between data points.
 
 (Regression Model) XGBoost - XGBoost is better suited for tabular data that lacks a clear temporal component. It can capture complex non-linear relationships and interactions between features.
+
+
+How to start the app: 
+Have the path ready for your python.dll (this has do be done locally in the Program.cs file to have .Net native python compiling.
+
+When you open the app (preferably in Visual Studio) update the fields 
+Runtime.PythonDLL 
+PythonEngine.PythonHome
+
+When startitring the application you can press the green play button with https next to it. Both models have separate controllers and services for easier checking.
