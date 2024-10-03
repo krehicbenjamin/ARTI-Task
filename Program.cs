@@ -4,8 +4,8 @@ using Python.Runtime;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-Runtime.PythonDLL = @"C:\Users\User\AppData\Local\Programs\Python\Python311\python311.dll"; //Needed path (would be handled on Virtual Machine in ideal scenario)
-PythonEngine.PythonHome = @"C:\Users\User\AppData\Local\Programs\Python\Python311";
+Runtime.PythonDLL = builder.Configuration["PythonSettings:PythonDLL"];
+PythonEngine.PythonHome = builder.Configuration["PythonSettings:PythonHome"];
 PythonEngine.Initialize();
 PythonEngine.BeginAllowThreads();
 
